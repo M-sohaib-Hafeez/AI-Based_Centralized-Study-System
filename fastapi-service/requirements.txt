@@ -1,0 +1,30 @@
+# ── FastAPI core ────────────────────────────────────────
+fastapi==0.115.0
+uvicorn[standard]==0.30.0
+python-multipart==0.0.9        # Required for UploadFile / Form
+
+# ── AI Providers ─────────────────────────────────────────
+openai==1.51.0                 # Used as Groq client (OpenAI-compatible SDK)
+google-generativeai==0.8.3     # Gemini Vision for image OCR
+
+# ── PDF Processing ───────────────────────────────────────
+# ✅ FIX: PyMuPDF 1.24.10 has no pre-built wheel for Windows and requires
+# cmake + ninja + swig to compile from source, which fails due to your
+# SSL certificate issue (MSYS2/ucrt64 Python).
+# PyMuPDF 1.25.x ships pre-built .whl for Windows — no compilation needed.
+PyMuPDF==1.25.5
+pdfplumber==0.11.4             # Fallback: better for table-heavy PDFs
+
+# ── DOCX Processing & Manipulation ───────────────────────
+python-docx==1.1.2             # Read + write Word documents (.docx)
+
+# ── PowerPoint Processing ────────────────────────────────
+python-pptx==1.0.2             # Extract text from .pptx slides
+
+# ── Image / OCR ──────────────────────────────────────────
+Pillow==10.4.0                 # Image handling (also needed by pptx)
+pytesseract==0.3.13            # Local OCR fallback (requires Tesseract binary)
+
+# ── Utilities ────────────────────────────────────────────
+python-dotenv==1.0.1           # Load .env for API keys
+pydantic==2.9.0                # Data validation (used by FastAPI)

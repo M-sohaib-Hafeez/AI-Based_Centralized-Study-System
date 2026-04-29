@@ -1,0 +1,18 @@
+:root {
+  --accent: #007bff;
+  --accent-bg: #e7f3ff;
+  --accent-border: #b3d7ff;
+  --border: #dee2e6;
+  --text-h: #212529;
+  --social-bg: #f8f9fa;
+  --shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}

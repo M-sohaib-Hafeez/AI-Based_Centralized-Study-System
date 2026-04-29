@@ -1,0 +1,30 @@
+# Environment variables — NEVER commit this
+.env
+.env.local
+.env.production
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# Test artifacts
+test_sample.pdf
+test_endpoints.py
+
+# OS
+.DS_Store
+Thumbs.db
+.env

@@ -1,0 +1,398 @@
+# Computer Science
+Computer Science
+Programming Fundamentals
+Object-Oriented Programming
+Data Structures and Algorithms
+Discrete Mathematics
+Computer Organization
+Operating Systems
+Database Systems
+Software Engineering
+Computer Networks
+Cybersecurity
+Cloud Computing
+Distributed Systems
+Artificial Intelligence
+Machine Learning
+Data Science
+Human-Computer Interaction
+Web Development
+Mobile Development
+Cryptography
+Automata Theory
+Compiler Design
+Computer Graphics
+Embedded Systems
+Parallel Computing
+Quantum Computing
+
+# Mathematics
+Mathematics
+Calculus
+Linear Algebra
+Differential Equations
+Probability
+Statistics
+Real Analysis
+Complex Analysis
+Abstract Algebra
+Number Theory
+Topology
+Geometry
+Numerical Methods
+Optimization
+Graph Theory
+Combinatorics
+Mathematical Modeling
+Stochastic Processes
+Game Theory
+
+# Physics
+Physics
+Classical Mechanics
+Electromagnetism
+Thermodynamics
+Statistical Mechanics
+Quantum Mechanics
+Optics
+Acoustics
+Nuclear Physics
+Particle Physics
+Solid State Physics
+Plasma Physics
+Relativity
+Cosmology
+Fluid Mechanics
+Computational Physics
+Experimental Physics
+
+# Chemistry
+Chemistry
+General Chemistry
+Inorganic Chemistry
+Organic Chemistry
+Physical Chemistry
+Analytical Chemistry
+Biochemistry
+Environmental Chemistry
+Green Chemistry
+Polymer Chemistry
+Nanochemistry
+Industrial Chemistry
+Medicinal Chemistry
+
+# Biology
+Biology
+Cell Biology
+Molecular Biology
+Genetics
+Biochemistry
+Biostatistics
+Microbiology
+Virology
+Anatomy
+Physiology
+Neuroscience
+Immunology
+Ecology
+Evolution
+Conservation Biology
+Plant Biology
+Zoology
+Developmental Biology
+Biotechnology
+Bioinformatics
+
+# Engineering
+Engineering
+Engineering Mathematics
+Engineering Drawing
+Engineering Mechanics
+Electrical Circuits
+Electronics
+Control Systems
+Signal Processing
+Power Systems
+Renewable Energy
+Thermodynamics
+Heat Transfer
+Fluid Mechanics
+Materials Science
+Manufacturing
+Mechanical Design
+Civil Engineering
+Structural Engineering
+Geotechnical Engineering
+Hydraulics
+Surveying
+Transportation Engineering
+Construction Management
+Chemical Engineering
+Environmental Engineering
+Robotics
+Mechatronics
+Automation
+Telecommunications
+Aerospace Engineering
+
+# Medicine and Health Sciences
+Medicine and Health Sciences
+Human Anatomy
+Human Physiology
+Pathology
+Microbiology
+Pharmacology
+Biochemistry
+Medical Biostatistics
+Clinical Medicine
+Primary Care
+Surgery
+Emergency Medicines
+Pediatrics
+Gynecology
+Geriatrics
+Psychiatry
+Neurology
+Cardiology
+Pulmonology
+Nephrology
+Oncology
+Endocrinology
+Gastroenterology
+Radiology
+Dermatology
+Ophthalmology
+Orthopedics
+Public Health
+Epidemiology
+Medical Ethics
+
+# Business and Management
+Business and Management
+Principles of Management
+Organizational Behavior
+Leadership
+Marketing
+Consumer Behavior
+Brand Management
+Financial Accounting
+Managerial Accounting
+Corporate Finance
+Investment Analysis
+Business Statistics
+Business Communication
+Human Resource Management
+Strategic Management
+Operations Management
+Supply Chain Management
+Entrepreneurship
+E-Commerce
+Business Law
+Business Ethics
+Project Management
+Risk Management
+International Business
+
+# Economics
+Economics
+Microeconomics
+Macroeconomics
+Econometrics
+International Economics
+Development Economics
+Public Finance
+Welfare Economics
+Monetary Economics
+Financial Economics
+Labor Economics
+Health Economics
+Environmental Economics
+Industrial Organization
+Urban Economics
+Political Economy
+Economic History
+
+# Law
+Law
+Constitutional Law
+Administrative Law
+Contract Law
+Tort Law
+Property Law
+Criminal Law
+Criminal Procedure
+Civil Procedure
+Evidence Law
+Corporate Law
+Banking Law
+Finance Law
+International Law
+Comparative Law
+Human Rights Law
+Environmental Law
+Family Law
+Cyber Law
+Intellectual Property Law
+Alternative Dispute Resolution
+
+# Psychology
+Psychology
+General Psychology
+Developmental Psychology
+Cognitive Psychology
+Behavioral Psychology
+Social Psychology
+Cross-Cultural Psychology
+Personality Psychology
+Positive Psychology
+Clinical Psychology
+Abnormal Psychology
+Neuropsychology
+Psychopharmacology
+Counseling Psychology
+Educational Psychology
+Health Psychology
+Research Methods
+Psychopathology
+
+# Education
+Education
+Foundations of Education
+Philosophy of Education
+Curriculum Development
+Pedagogy
+Assessment and Evaluation
+Educational Psychology
+Classroom Management
+Educational Technology
+STEM Education
+Special Education
+Inclusive Education
+Early Childhood Education
+Educational Leadership
+Educational Policy
+
+# Social Sciences
+Social Sciences
+Sociology
+Social Theory
+Cultural Anthropology
+Physical Anthropology
+Research Methods
+Social Statistics
+Political Theory
+International Relations
+Diplomacy
+Public Administration
+Policy Analysis
+Gender Studies
+Migration Studies
+Development Studies
+Criminology
+Demography
+Peace Studies
+Conflict Resolution
+Comparative Politics
+
+# Humanities and Arts
+Humanities and Arts
+Philosophy
+Ethics
+Logic
+Metaphysics
+Epistemology
+World History
+Cultural History
+History of Science
+Historiography
+Literature
+Creative Writing
+Linguistics
+Comparative Literature
+Film Studies
+Theater Arts
+Performing Arts
+Visual Arts
+Digital Arts
+Fine Arts
+Music Theory
+Aesthetics
+Media Studies
+Journalism
+Communications
+Public Relations
+Advertising
+Intellectual History
+
+# Architecture and Design
+Architecture and Design
+Architectural Design
+Architectural History
+Structural Technology
+Construction Technology
+Urban Planning
+Landscape Architecture
+Sustainable Design
+Environmental Design
+Interior Design
+Graphic Design
+Industrial Design
+User Experience Design
+User Interface Design
+Typography
+Color Theory
+Design Thinking
+
+# Agriculture and Environmental Sciences
+Agriculture and Environmental Sciences
+Soil Science
+Crop Science
+Agronomy
+Horticulture
+Forestry
+Animal Husbandry
+Aquaculture
+Irrigation Management
+Water Resource Management
+Plant Pathology
+Pest Management
+Food Science
+Agricultural Economics
+Environmental Science
+Climate Change Studies
+Conservation Biology
+Biodiversity
+Geographic Information Systems
+Remote Sensing
+
+# Pharmacy and Pharmaceutical Sciences
+Pharmacy and Pharmaceutical Sciences
+Pharmacognosy
+Pharmaceutical Chemistry
+Pharmaceutics
+Drug Delivery Systems
+Pharmacology
+Toxicology
+Clinical Pharmacy
+Hospital Pharmacy
+Pharmaceutical Microbiology
+Pharmaceutical Analysis
+Biopharmaceutics
+Regulatory Affairs
+
+# Statistics and Data Science
+Statistics and Data Science
+Descriptive Statistics
+Inferential Statistics
+Regression Analysis
+Multivariate Analysis
+Time Series Analysis
+Survival Analysis
+Bayesian Analysis
+Categorical Data Analysis
+Sampling Theory
+Experimental Design
+Statistical Computing
+Data Visualization
+Machine Learning for Statistics
+Statistical Quality Control

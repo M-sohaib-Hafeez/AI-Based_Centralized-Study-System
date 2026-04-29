@@ -1,0 +1,270 @@
+.upload-container {
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  min-height: 100vh;
+  padding: 40px 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.upload-form {
+  max-width: 550px;
+  width: 100%;
+  margin: 0 auto;
+  background: white;
+  padding: 40px;
+  border-radius: 20px;
+  box-shadow: 0 20px 60px rgba(0, 0, 0, 0.3);
+  animation: fadeInUp 0.5s ease;
+}
+
+@keyframes fadeInUp {
+  from {
+    transform: translateY(30px);
+    opacity: 0;
+  }
+  to {
+    transform: translateY(0);
+    opacity: 1;
+  }
+}
+
+.upload-form h2 {
+  text-align: center;
+  margin-bottom: 8px;
+  color: #1f2937;
+  font-size: 28px;
+  font-weight: 700;
+}
+
+.upload-subtitle {
+  text-align: center;
+  color: #6b7280;
+  font-size: 14px;
+  margin-bottom: 30px;
+  padding-bottom: 20px;
+  border-bottom: 2px solid #e5e7eb;
+}
+
+.form-group {
+  margin-bottom: 22px;
+}
+
+.upload-form label {
+  display: block;
+  font-size: 14px;
+  font-weight: 600;
+  color: #374151;
+  margin-bottom: 8px;
+}
+
+.upload-form label span {
+  color: #ef4444;
+  margin-left: 4px;
+}
+
+.upload-form input,
+.upload-form select {
+  width: 100%;
+  padding: 12px 14px;
+  border-radius: 10px;
+  border: 2px solid #e5e7eb;
+  font-size: 14px;
+  background: white;
+  transition: all 0.3s ease;
+  box-sizing: border-box;
+}
+
+.upload-form input:focus,
+.upload-form select:focus {
+  outline: none;
+  border-color: #667eea;
+  box-shadow: 0 0 0 3px rgba(102, 126, 234, 0.1);
+}
+
+.upload-form input:hover,
+.upload-form select:hover {
+  border-color: #9ca3af;
+}
+
+/* File Input Styles */
+.file-input-wrapper {
+  position: relative;
+  margin-top: 5px;
+}
+
+.file-input-wrapper input[type="file"] {
+  position: absolute;
+  opacity: 0;
+  width: 100%;
+  height: 100%;
+  cursor: pointer;
+  z-index: 2;
+}
+
+.file-input-label {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  padding: 12px;
+  background: #f9fafb;
+  border: 2px dashed #d1d5db;
+  border-radius: 10px;
+  cursor: pointer;
+  font-size: 14px;
+  color: #374151;
+  transition: all 0.3s ease;
+  position: relative;
+  z-index: 1;
+}
+
+.file-input-label:hover {
+  background: #f3f4f6;
+  border-color: #667eea;
+  transform: translateY(-2px);
+}
+
+.file-name {
+  margin-top: 10px;
+  font-size: 13px;
+  color: #10b981;
+  text-align: center;
+  padding: 8px;
+  background: #ecfdf5;
+  border-radius: 8px;
+  word-break: break-all;
+}
+
+/* Button Styles */
+.upload-form button {
+  width: 100%;
+  padding: 14px;
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  color: white;
+  border: none;
+  border-radius: 10px;
+  font-size: 16px;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  margin-top: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+}
+
+.upload-form button:hover:not(:disabled) {
+  transform: translateY(-2px);
+  box-shadow: 0 10px 20px rgba(102, 126, 234, 0.3);
+}
+
+.upload-form button:active:not(:disabled) {
+  transform: translateY(0);
+}
+
+.upload-form button:disabled {
+  background: #9ca3af;
+  cursor: not-allowed;
+  transform: none;
+}
+
+/* Message Alerts */
+.success-message,
+.error-message {
+  padding: 14px;
+  border-radius: 10px;
+  margin-bottom: 25px;
+  text-align: center;
+  font-size: 14px;
+  font-weight: 500;
+  animation: slideDown 0.3s ease;
+}
+
+@keyframes slideDown {
+  from {
+    transform: translateY(-20px);
+    opacity: 0;
+  }
+  to {
+    transform: translateY(0);
+    opacity: 1;
+  }
+}
+
+.success-message {
+  background: #d1fae5;
+  color: #065f46;
+  border-left: 4px solid #10b981;
+}
+
+.error-message {
+  background: #fee2e2;
+  color: #991b1b;
+  border-left: 4px solid #ef4444;
+}
+
+/* Loading Spinner */
+.loading-spinner {
+  display: inline-block;
+  width: 16px;
+  height: 16px;
+  border: 2px solid white;
+  border-top: 2px solid transparent;
+  border-radius: 50%;
+  animation: spin 0.6s linear infinite;
+  vertical-align: middle;
+}
+
+@keyframes spin {
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}
+
+/* Datalist Styles */
+datalist {
+  background: white;
+  border-radius: 8px;
+}
+
+/* Responsive Design */
+@media (max-width: 640px) {
+  .upload-container {
+    padding: 20px;
+  }
+  
+  .upload-form {
+    padding: 25px;
+  }
+  
+  .upload-form h2 {
+    font-size: 24px;
+  }
+  
+  .upload-subtitle {
+    font-size: 13px;
+    margin-bottom: 20px;
+  }
+  
+  .form-group {
+    margin-bottom: 18px;
+  }
+  
+  .upload-form input,
+  .upload-form select {
+    padding: 10px 12px;
+  }
+  
+  .upload-form button {
+    padding: 12px;
+    font-size: 15px;
+  }
+}
+
+@media (min-width: 641px) and (max-width: 768px) {
+  .upload-form {
+    max-width: 500px;
+    padding: 35px;
+  }
+}
