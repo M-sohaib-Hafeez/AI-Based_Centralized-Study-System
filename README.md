@@ -102,7 +102,7 @@ Every uploaded document is automatically analyzed for:
            │ MySQL (JPA/Hibernate)    │ Multipart HTTP
            ▼                          ▼
 ┌──────────────────┐    ┌─────────────────────────────────────────┐
-│   MySQL DB       │    │      FastAPI AI Microservice (Port 8000) │
+│   MySQL DB       │    │     FastAPI AI Microservice (Port 8000) │
 │                  │    │    (Python · Groq · Gemini · PyMuPDF)   │
 │  - users         │    │                                         │
 │  - metadata      │    │  POST /api/analyze   (file analysis)    │
