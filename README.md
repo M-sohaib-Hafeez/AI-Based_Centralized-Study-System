@@ -94,7 +94,7 @@ Every uploaded document is automatically analyzed for:
 │                   Spring Boot Backend (Port 8080)               │
 │          (Java 21 · Spring Security · JPA · MySQL)              │
 │                                                                 │
-│  Controllers:  Auth · FileStorage · Search · AI · Reference    │
+│  Controllers:  Auth · FileStorage · Search · AI · Reference     │
 │  Services:     UserService · FileStorageService · AIService     │
 │                MetadataService · JwtService                     │
 │  Security:     JwtFilter · BCrypt · CORS                        │
